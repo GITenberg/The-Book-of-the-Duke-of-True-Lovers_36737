@@ -35,6 +35,8 @@ creator:
     gutenberg_agent_id: '35511'
     url: http://www.gutenberg.org/2009/agents/35511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36737#The-Book-of-the-Duke-of-True-Lovers
 gutenberg_issued: '2011-07-14'
 gutenberg_type: Text
 identifiers:
