@@ -1,0 +1,50 @@
+_repo: The-Book-of-the-Duke-of-True-Lovers_36737
+_version: 0.1.0
+alternative_title: Le livre du duc des vrais amants. English
+contributor:
+  translators:
+  - agent_name: Binyon, Laurence
+    alias: Binyon, Robert Laurence
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '8532'
+    url: http://www.gutenberg.org/2009/agents/8532
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Binyon
+  - agent_name: Maclagan, Eric Robert Dalrymple
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '38454'
+    url: http://www.gutenberg.org/2009/agents/38454
+covers:
+- cover_type: archival
+  image_path: 36737-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Christine, de Pisan
+    aliases:
+    - Pisan, Christiné de
+    - Pisan, Christine de
+    - Pizan, Christine de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia: http://en.wikipedia.org/wiki/Christine_de_Pizan
+  editor:
+    agent_name: Kemp-Welch, Alice
+    gutenberg_agent_id: '35511'
+    url: http://www.gutenberg.org/2009/agents/35511
+description: ''
+gutenberg_issued: '2011-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Love poetry, French -- Translations into English'
+title: The Book of the Duke of True Lovers
+url: http://www.gutenberg.org/ebooks/36737
